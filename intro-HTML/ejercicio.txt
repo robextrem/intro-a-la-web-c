@@ -1,0 +1,9 @@
+1. Hacer un archivo html (index.html)
+Hoja de vida / CV / Portafolio
+
+- Nombre
+- Una foto o Imagen
+- Biografia
+- Aficiones
+- Link a perfil de Github
+- Habilidades
