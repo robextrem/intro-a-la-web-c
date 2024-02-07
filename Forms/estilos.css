@@ -1,0 +1,38 @@
+/*
+ input[type='text']{
+    background-color:  grey;
+ }
+*/
+#formulario{
+    margin:20px;
+    background-color: pink;
+    padding: 10px;
+}
+
+.input{
+    background-color: lightblue; 
+    margin-bottom: 5px;
+    border: 1px solid #333;
+    height: 25px;
+    font-size: 11px;
+    border-radius: 15px;
+    padding: 2px;
+}
+
+/*
+.input:hover{
+    background-color: red;
+}*/
+
+.input:focus{
+    background-color: yellow;
+}
+
+select{
+    height: 35px;
+    width: 90px;
+}
+
+button{
+    background-color: aquamarine;
+}

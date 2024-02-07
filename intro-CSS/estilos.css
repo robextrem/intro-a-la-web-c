@@ -3,6 +3,19 @@ body{
     font-family: 'Roboto';
 }
 
+.perfil p {
+    /* este es un comentario */
+    color: yellow;
+}
+
+p{
+    color: blue;
+}
+
+p[href='Roberto']{
+    color:pink;
+}
+
 .perfil{
     border: 1px solid black;
     background-color: blueviolet;
@@ -17,17 +30,21 @@ body{
     margin-top: 50px;
     padding-left: 30px;
     margin-left: 20px;
+    margin-bottom: 20px;
     margin-right: 20px;
 }
 
 #foto{
     width: 100px;
-    margin:20px
+    margin:20px;
+}
+
+.fotografia{
+    border: 1px solid red;
 }
 
 #footer{
     width: 100%;
     height: 300px;
-    background: url('banner.png');
-    margin-top: 20px;
+    background: url("banner.png");
 }
