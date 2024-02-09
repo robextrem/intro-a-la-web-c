@@ -13,6 +13,9 @@ html,body{
     background-color: black;
     padding: 10px 20px;
     height: 60px;
+    position: fixed;
+    left:0;
+    right: 0;
 }
 
 .link{
@@ -40,8 +43,9 @@ html,body{
 }
 
 .portada{
+    padding-top: 60px;
     background-color: #dadbf1;
-    height: 30vh;
+    height: 2000px;
     text-align: center;
 }
 
@@ -68,3 +72,4 @@ html,body{
     border: none;
     float: right;
 }
+

@@ -40,11 +40,22 @@ p{
     display: inline-block;
 }
 
+.bloque3{
+    border:1px solid black;
+    width: 500px;
+    height: 250px;
+    background-color: green;
+    position: fixed;
+    bottom: 200px;
+    right: 0 ;
+}
+
 .bloque-tamano{
     border:1px solid black;
-    background-color: aqua;
-    height: 75vh;
+    background-color: #53477E;
+    height: 30vw;
     width: 80vw;
+    position: relative;
 }
 
 .bloquecito{
@@ -52,3 +63,10 @@ p{
     height: 300px;
     width: 50%;
 }
+
+.absolute{
+    position: absolute;
+    left:10px;
+    bottom: 0px;
+}
+
