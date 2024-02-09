@@ -19,10 +19,10 @@
     padding: 2px;
 }
 
-/*
+
 .input:hover{
     background-color: red;
-}*/
+}
 
 .input:focus{
     background-color: yellow;
