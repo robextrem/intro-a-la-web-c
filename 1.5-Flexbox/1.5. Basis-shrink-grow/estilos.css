@@ -1,0 +1,23 @@
+.padre{
+    background-color: rgb(15, 15, 69);
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.hijo{
+    background-color: rgb(0, 157, 255);
+    padding: 10px;
+    font-size: 28px;
+    text-align:center;
+    display: block;
+    flex-grow: 1;
+    flex-basis:120px;
+}
+
+.hijo.grow{
+    flex-grow: 5;
+    background-color: green;
+}

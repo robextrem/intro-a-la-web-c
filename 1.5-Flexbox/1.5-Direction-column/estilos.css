@@ -1,0 +1,14 @@
+.padre{
+    background-color: rgb(15, 15, 69);
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.hijo{
+    background-color: rgb(0, 157, 255);
+    padding: 10px;
+    font-size: 28px;
+    text-align:center;
+}
