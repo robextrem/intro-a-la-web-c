@@ -16,6 +16,10 @@ body{
     margin: 10px;
 }
 
+#foto2{
+    border: 13px solid pink;
+}
+
 .hijo2{
     background-color: green;
     flex-basis: 50%;
